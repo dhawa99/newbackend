@@ -1,0 +1,19 @@
+{
+  "name": "roshanbackend",
+  "version": "1.0.0",
+  "description": "a basic app to edit create and update",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "node",
+    "roshan"
+  ],
+  "author": "roshan lama",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2"
+  }
+}
